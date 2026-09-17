@@ -23,7 +23,7 @@
 </head>
 <body>
 
-  <iframe src="https://script.google.com/a/*/macros/s/AKfycbwkoo0l53z7TcjTkLvM8RMY7XasSmThaTqbBl-4zUkYOVz9O-DmvUZF05oz_auNGSCSVg/exec"></iframe>
+  <iframe src="https://script.google.com/macros/s/AKfycbwkoo0l53z7TcjTkLvM8RMY7XasSmThaTqbBl-4zUkYOVz9O-DmvUZF05oz_auNGSCSVg/exec"></iframe>
 
 </body>
 </html>
